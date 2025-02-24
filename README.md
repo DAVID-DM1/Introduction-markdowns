@@ -1,4 +1,4 @@
-<header>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)<header>
 
 <!--
   <<< Author notes: Course header >>>
